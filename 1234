@@ -1,1 +1,11 @@
-{"pds":[]}
+{
+    "id":"1",
+    "name":"Demo",
+    "pds":[
+        {"url":"https://i.ibb.co/3WvkDvB/589a0a2071b7a2ed71ae5b13210e032b.jpg","name":"","costo":"","info":"","envio":0},
+        {"url":"https://i.ibb.co/nMB9486/bermuda-para-hombre-en-drill-unicolor-con-bolsillos-unser-caqui-826980-KQ-jpg-u-UGJ7g0-Jpu-Fn-Au0-XR.jpg","name":"","costo":"","info":"","envio":0},
+        {"url":"https://i.ibb.co/P53HGmR/camisas-hombre-baratas-en-zalando-prive-e1563193637833.jpg","name":"","costo":"","info":"","envio":0},
+        {"url":"https://i.ibb.co/4RXmLgc/Men-prime-S-Beachwear-Beach-Shorts-100-Polyester-Black-Solid-Color-Men-Letter-Graphic-Drawstring-Wai.jpg","name":"","costo":"","info":"","envio":0},
+        {"url":"https://i.ibb.co/Jx7YFrG/camisa-negra-1564602973.jpg","name":"","costo":"","info":"","envio":0}
+    ]
+}
