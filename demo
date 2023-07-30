@@ -1,1 +1,6 @@
-{"id":"123456"}
+{
+    "id":"3",
+    "name":"Demo Settings",
+    "web":"www.catalogo.tiiny.site",
+    "pds":[]
+}
