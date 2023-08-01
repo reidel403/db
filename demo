@@ -1,6 +1,22 @@
 {
-    "id":"3",
-    "name":"Demo Settings",
-    "web":"www.catalogo.tiiny.site",
-    "pds":[]
+    "id":"demo",
+    "t":"b56cae45ac",
+    "web":true,
+    
+    "n":"Demo",
+    "d":"Seller page demo",
+    "g":[
+        {"url":"https://i.ibb.co/wNPF6mx/miApi.jpg","d":"descripción"},
+        {"url":"https://i.ibb.co/f4TbbxC/miApi.jpg","d":"descripción"},
+        {"url":"https://i.ibb.co/cDRvWZW/miApi.jpg","d":"descripción"},
+        {"url":"https://i.ibb.co/TLfJmW6/miApi.jpg","d":"descripción"},
+        {"url":"https://i.ibb.co/sHjz6mV/miApi.jpg","d":"descripción"},
+        {"url":"https://i.ibb.co/ZMMVbZX/miApi.jpg","d":"descripción"},
+        {"url":"https://i.ibb.co/F4TPJMM/miApi.jpg","d":"descripción"},
+        {"url":"https://i.ibb.co/BGqm7VG/miApi.jpg","d":"descripción"},
+        {"url":"https://i.ibb.co/7CtwD8k/miApi.jpg","d":"descripción"}
+    ],
+    "promo":"",
+    "pds":[
+    ]
 }
