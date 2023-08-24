@@ -1,27 +1,115 @@
 {
-  "id": "1",
-  "api":"00101360501",
-  "name":"alvaro",
-  "phone":"56059870",
-  
-  "file":"",
-  "device":"",
-  "top":150,
-
-  "offer":[
-      {"img":"804","costo":"","name":"","time":"","info":"","sha":"7d233449ca305509599aab7fb0e6aa6887f844bf"},
-      {"img":"800","costo":"","name":"","time":"","info":"","sha":"4a96ab904901ad2ce61397d62df46e9e282733cc"},
-      {"img":"802","costo":"","name":"","time":"","info":"","sha":"b63e4f9c37f373d89f6ab8e28b0ab4ed8d1cd4fe"},
-      {"img":"803","costo":"","name":"","time":"","info":"","sha":"cbe8bfb2bc92c0245ab2e64ee67129e01c1ff1b6"},
-      {"img":"804","costo":"","name":"","time":"","info":"","sha":"7d233449ca305509599aab7fb0e6aa6887f844bf"},
-      {"img":"800","costo":"","name":"","time":"","info":"","sha":"4a96ab904901ad2ce61397d62df46e9e282733cc"},
-      {"img":"802","costo":"","name":"","time":"","info":"","sha":"b63e4f9c37f373d89f6ab8e28b0ab4ed8d1cd4fe"},
-      {"img":"803","costo":"","name":"","time":"","info":"","sha":"cbe8bfb2bc92c0245ab2e64ee67129e01c1ff1b6"},
-
-      {"img":"804","costo":"","name":"","time":"","info":"","sha":"7d233449ca305509599aab7fb0e6aa6887f844bf"},
-      {"img":"800","costo":"","name":"","time":"","info":"","sha":"4a96ab904901ad2ce61397d62df46e9e282733cc"},
-      {"img":"802","costo":"","name":"","time":"","info":"","sha":"b63e4f9c37f373d89f6ab8e28b0ab4ed8d1cd4fe"},
-      {"img":"803","costo":"","name":"","time":"","info":"","sha":"cbe8bfb2bc92c0245ab2e64ee67129e01c1ff1b6"},
-      {"img":"801","costo":"","name":"","time":"","info":"","sha":"fb96f4a84035623ed5de02dd6ef166b45c0ca895"}
+  "id": "0adf0a95f5df",
+  "api": "00101360501",
+  "name": "alvaro2",
+  "phone": "56059870",
+  "file": "0adf0a95f5df",
+  "device": "",
+  "top": 150,
+  "offer": [
+    {
+      "img": "804",
+      "costo": "",
+      "name": "",
+      "time": "",
+      "info": "",
+      "sha": "7d233449ca305509599aab7fb0e6aa6887f844bf"
+    },
+    {
+      "img": "800",
+      "costo": "",
+      "name": "",
+      "time": "",
+      "info": "",
+      "sha": "4a96ab904901ad2ce61397d62df46e9e282733cc"
+    },
+    {
+      "img": "802",
+      "costo": "",
+      "name": "",
+      "time": "",
+      "info": "",
+      "sha": "b63e4f9c37f373d89f6ab8e28b0ab4ed8d1cd4fe"
+    },
+    {
+      "img": "803",
+      "costo": "",
+      "name": "",
+      "time": "",
+      "info": "",
+      "sha": "cbe8bfb2bc92c0245ab2e64ee67129e01c1ff1b6"
+    },
+    {
+      "img": "804",
+      "costo": "",
+      "name": "",
+      "time": "",
+      "info": "",
+      "sha": "7d233449ca305509599aab7fb0e6aa6887f844bf"
+    },
+    {
+      "img": "800",
+      "costo": "",
+      "name": "",
+      "time": "",
+      "info": "",
+      "sha": "4a96ab904901ad2ce61397d62df46e9e282733cc"
+    },
+    {
+      "img": "802",
+      "costo": "",
+      "name": "",
+      "time": "",
+      "info": "",
+      "sha": "b63e4f9c37f373d89f6ab8e28b0ab4ed8d1cd4fe"
+    },
+    {
+      "img": "803",
+      "costo": "",
+      "name": "",
+      "time": "",
+      "info": "",
+      "sha": "cbe8bfb2bc92c0245ab2e64ee67129e01c1ff1b6"
+    },
+    {
+      "img": "804",
+      "costo": "",
+      "name": "",
+      "time": "",
+      "info": "",
+      "sha": "7d233449ca305509599aab7fb0e6aa6887f844bf"
+    },
+    {
+      "img": "800",
+      "costo": "",
+      "name": "",
+      "time": "",
+      "info": "",
+      "sha": "4a96ab904901ad2ce61397d62df46e9e282733cc"
+    },
+    {
+      "img": "802",
+      "costo": "",
+      "name": "",
+      "time": "",
+      "info": "",
+      "sha": "b63e4f9c37f373d89f6ab8e28b0ab4ed8d1cd4fe"
+    },
+    {
+      "img": "803",
+      "costo": "",
+      "name": "",
+      "time": "",
+      "info": "",
+      "sha": "cbe8bfb2bc92c0245ab2e64ee67129e01c1ff1b6"
+    },
+    {
+      "img": "801",
+      "costo": "",
+      "name": "",
+      "time": "",
+      "info": "",
+      "sha": "fb96f4a84035623ed5de02dd6ef166b45c0ca895"
+    }
   ]
 }
